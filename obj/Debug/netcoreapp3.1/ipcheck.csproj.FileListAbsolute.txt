@@ -1,0 +1,13 @@
+/usr/csuser/clouddrive/ipcheck/bin/Debug/netcoreapp3.1/ipcheck
+/usr/csuser/clouddrive/ipcheck/bin/Debug/netcoreapp3.1/ipcheck.deps.json
+/usr/csuser/clouddrive/ipcheck/bin/Debug/netcoreapp3.1/ipcheck.runtimeconfig.json
+/usr/csuser/clouddrive/ipcheck/bin/Debug/netcoreapp3.1/ipcheck.runtimeconfig.dev.json
+/usr/csuser/clouddrive/ipcheck/bin/Debug/netcoreapp3.1/ipcheck.dll
+/usr/csuser/clouddrive/ipcheck/bin/Debug/netcoreapp3.1/ipcheck.pdb
+/usr/csuser/clouddrive/ipcheck/obj/Debug/netcoreapp3.1/ipcheck.csprojAssemblyReference.cache
+/usr/csuser/clouddrive/ipcheck/obj/Debug/netcoreapp3.1/ipcheck.AssemblyInfoInputs.cache
+/usr/csuser/clouddrive/ipcheck/obj/Debug/netcoreapp3.1/ipcheck.AssemblyInfo.cs
+/usr/csuser/clouddrive/ipcheck/obj/Debug/netcoreapp3.1/ipcheck.csproj.CoreCompileInputs.cache
+/usr/csuser/clouddrive/ipcheck/obj/Debug/netcoreapp3.1/ipcheck.dll
+/usr/csuser/clouddrive/ipcheck/obj/Debug/netcoreapp3.1/ipcheck.pdb
+/usr/csuser/clouddrive/ipcheck/obj/Debug/netcoreapp3.1/ipcheck.genruntimeconfig.cache
